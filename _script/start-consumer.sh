@@ -1,0 +1,1 @@
+./out/consumer getting-started.properties

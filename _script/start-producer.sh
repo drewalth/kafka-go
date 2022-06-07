@@ -1,0 +1,1 @@
+./out/producer getting-started.properties
